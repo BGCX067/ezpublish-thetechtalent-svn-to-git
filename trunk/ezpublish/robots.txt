@@ -1,0 +1,26 @@
+Sitemap: http://www.the-tech-talent.com/layout/set/xml/content/view/sitemapxml/2
+
+User-agent: *
+Disallow: /_db_backups
+Disallow: /admin
+Disallow: /autoload
+Disallow: /bin
+Disallow: /cgi
+Disallow: /cronjobs
+Disallow: /design
+Disallow: /doc
+Disallow: /extension
+Disallow: /kernel
+Disallow: /lib
+Disallow: /schemas
+Disallow: /settings
+Disallow: /share
+Disallow: /stats
+Disallow: /support
+Disallow: /update
+Disallow: /var
+Disallow: /content/keyword
+Disallow: /Global-Zone
+Disallow: /user/login
+Disallow: /user/register
+Disallow: /News

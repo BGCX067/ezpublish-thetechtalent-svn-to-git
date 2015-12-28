@@ -1,0 +1,85 @@
+a:10:{s:7:"content";s:3868:"
+
+<div class="border-box">
+<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
+<div class="border-ml"><div class="border-mr"><div class="border-mc float-break">
+
+    <div class="content-view-full">
+        <div class="class-article">
+
+        <div class="attribute-header">
+            <h1>First article</h1>
+        </div>
+
+        <div class="attribute-byline">
+                <p class="author">
+             Administrator User        </p>
+                <p class="date">
+             01/24/2011 04:31 pm
+        </p>
+        </div>
+
+                                    <div class="attribute-image">
+                    
+
+    
+        
+    
+                                                                                                                                            <img src="/var/ezflow_site/storage/images/java/first-article/235-1-eng-US/first-article_medium.png" width="200" height="152"  style="border: 0px  ;" alt="first article" title="first article" />
+            
+    
+    
+    
+                                    </div>
+                    
+                                    <div class="attribute-short">
+                    
+<p>summary</p>                </div>
+                    
+                    <div class="attribute-long">
+                
+<p>body</p>            </div>
+        
+        <div class="attribute-star-rating">
+            
+<ul id="ezsr_rating_240" class="ezsr-star-rating">
+   <li id="ezsr_rating_percent_240" class="ezsr-current-rating" style="width:0%;">Currently <span>0</span> out of 5 Stars.</li>
+          <li><a href="JavaScript:void(0);" id="ezsr_240_1_1" title="Rate 1 stars out of 5" class="ezsr-stars-1" rel="nofollow" onfocus="this.blur();">1</a></li>
+          <li><a href="JavaScript:void(0);" id="ezsr_240_1_2" title="Rate 2 stars out of 5" class="ezsr-stars-2" rel="nofollow" onfocus="this.blur();">2</a></li>
+          <li><a href="JavaScript:void(0);" id="ezsr_240_1_3" title="Rate 3 stars out of 5" class="ezsr-stars-3" rel="nofollow" onfocus="this.blur();">3</a></li>
+          <li><a href="JavaScript:void(0);" id="ezsr_240_1_4" title="Rate 4 stars out of 5" class="ezsr-stars-4" rel="nofollow" onfocus="this.blur();">4</a></li>
+          <li><a href="JavaScript:void(0);" id="ezsr_240_1_5" title="Rate 5 stars out of 5" class="ezsr-stars-5" rel="nofollow" onfocus="this.blur();">5</a></li>
+   </ul>
+
+Rating: <span id="ezsr_average_240" class="ezsr-average-rating">0</span>/5
+(<span id="ezsr_total_240">0</span> votes cast)
+ 
+<p id="ezsr_just_rated_240" class="ezsr-just-rated hide">Thank you for rating!</p>
+<p id="ezsr_has_rated_240" class="ezsr-has-rated hide">You have already rated this page, you can only rate it once!</p>
+<p id="ezsr_changed_rating_240" class="ezsr-changed-rating hide">Your rating has been changed, thanks for rating!</p>
+
+    
+                    </div>
+
+        
+                            <h1>Comments</h1>
+                <div class="content-view-children">
+                                    </div>
+
+                                    <form method="post" action="/index.php?/content/action">
+                    <input type="hidden" name="ClassIdentifier" value="comment" />
+                    <input type="hidden" name="NodeID" value="62" />
+                    <input type="hidden" name="ContentLanguageCode" value="eng-US" />
+                    <input class="button new_comment" type="submit" name="NewButton" value="New comment" />
+                    </form>
+                                
+                        <div class="attribute-tipafriend">
+            <p><a href="/index.php?/content/tipafriend/62" title="Tip a friend">Tip a friend</a></p>
+        </div>
+        
+        </div>
+    </div>
+
+</div></div></div>
+<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
+</div>";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:3:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:4:"java";s:3:"url";s:21:"/content/view/full/61";s:9:"url_alias";s:4:"java";s:7:"node_id";s:2:"61";}i:2;a:4:{s:4:"text";s:13:"first article";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"62";}}s:10:"title_path";a:3:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:4:"java";s:3:"url";s:21:"/content/view/full/61";s:9:"url_alias";s:4:"java";s:7:"node_id";s:2:"61";}i:2;a:3:{s:4:"text";s:13:"first article";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"62";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:18:{s:9:"object_id";s:2:"61";s:7:"node_id";s:2:"62";s:14:"parent_node_id";s:2:"61";s:8:"class_id";s:2:"16";s:16:"class_identifier";s:7:"article";s:9:"remote_id";s:32:"4db4a33139d99921373ed365716a87eb";s:14:"node_remote_id";s:32:"c8a529f68fd3b9c5fc7cd68d425c10e5";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"3";s:9:"url_alias";s:18:"java/first-article";s:19:"persistent_variable";a:2:{s:9:"css_files";a:1:{i:0;s:15:"star_rating.css";}s:8:"js_files";a:3:{i:0;s:11:"ezjsc::yui3";i:1;s:13:"ezjsc::yui3io";i:2;s:20:"ezstarrating_yui3.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";}s:13:"template_list";a:7:{i:0;s:68:"extension/ezwebin/design/ezwebin/override/templates/full/article.tpl";i:1;s:77:"extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezauthor.tpl";i:2;s:59:"design/standard/templates/content/datatype/view/ezimage.tpl";i:3;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:4;s:88:"extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:7;s:85:"extension/ezstarrating/design/standard/templates/content/datatype/view/ezsrrating.tpl";i:8;s:68:"extension/ezwebin/design/ezwebin/templates/parts/related_content.tpl";}s:9:"cache_ttl";i:-1;}

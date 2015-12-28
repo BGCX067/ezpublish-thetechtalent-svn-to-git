@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension name="ezstarrating">
+  <file name="autoloads" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrtemplateoperators.php" path="/autoloads" md5sum="be535fca1b87ee27231df9b264912775"/>
+  <file name="eztemplateautoload.php" path="/autoloads" md5sum="8dda4ff57073ba657c8b529b11c546bb"/>
+  <file name="classes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrratingdataobject.php" path="/classes" md5sum="a26345d4f79c2279780146087e31c87c"/>
+  <file name="ezsrratingobjecttreenode.php" path="/classes" md5sum="a59eb00625b8c66f5730fb69605351d3"/>
+  <file name="ezsrratingobject.php" path="/classes" md5sum="f1b8dfd72bc155552db07ccb9ede1011"/>
+  <file name="ezsrratingfilter.php" path="/classes" md5sum="1cbfa0908632e352069bfa36d21489a7"/>
+  <file name="ezsrserverfunctions.php" path="/classes" md5sum="f47a8ef6490f5aad8a8246e6631efac0"/>
+  <file name="CHANGELOG" md5sum="4dc9babe566697f99245d3093cee32d4"/>
+  <file name="sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="oracle" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="oracle.sql" path="/sql/oracle" md5sum="47da201bdd93148da7f6ae176c9e7e82"/>
+  <file name="mysql" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="mysql.sql" path="/sql/mysql" md5sum="59dcc5329bfba026df6105488938db00"/>
+  <file name="postgresql" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="postgresql.sql" path="/sql/postgresql" md5sum="2005331ff847e65e9f4e9b5b5bbcb680"/>
+  <file name="README" md5sum="86af1ba571ccc7e929496560b3cd1ba1"/>
+  <file name="LICENSE" md5sum="eb723b61539feef013de476e68b5c50a"/>
+  <file name="translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="jpn-JP" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/jpn-JP" md5sum="5afad82be56fad522f6f8ffd5a1f4721"/>
+  <file name="fre-FR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/fre-FR" md5sum="c0d4560d16a777490426b8fa00de1d65"/>
+  <file name="cat-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/cat-ES" md5sum="45f914ed5146ac39552c9590c8146cf0"/>
+  <file name="ger-DE" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/ger-DE" md5sum="82d797eabf76ff9ae6552d960905a013"/>
+  <file name="por-BR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/por-BR" md5sum="0404a3551cf2314782770e6e90df0f54"/>
+  <file name="esl-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/esl-ES" md5sum="1ca0f8b5f8dcb379c9deb980f65b9fbb"/>
+  <file name="untranslated" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/untranslated" md5sum="0959bf8c17fc5b41f50ff8e436dcca0e"/>
+  <file name="design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="standard" path="/design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="stylesheets" path="/design/standard" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="star_rating.css" path="/design/standard/stylesheets" md5sum="59d83d2e34999c04b8a3b78ff9672c11"/>
+  <file name="images" path="/design/standard" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="star.gif" path="/design/standard/images" md5sum="8133f85857fcd21ee94e1c6568b6aa58"/>
+  <file name="silk" path="/design/standard/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="blankstar.png" path="/design/standard/images/silk" md5sum="2f9281cee25640e07f594b0a869a743e"/>
+  <file name="halfstar.png" path="/design/standard/images/silk" md5sum="006fcab1b9a97b4a7815cd975d2878f0"/>
+  <file name="star.png" path="/design/standard/images/silk" md5sum="fbfc58b3b177fc211e755d0944bfa2e7"/>
+  <file name="templates" path="/design/standard" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="class" path="/design/standard/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="datatype" path="/design/standard/templates/class" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="view" path="/design/standard/templates/class/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrrating.tpl" path="/design/standard/templates/class/datatype/view" md5sum="0a7aa5c3a174fc74aa64007e7afe7e8d"/>
+  <file name="edit" path="/design/standard/templates/class/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrrating.tpl" path="/design/standard/templates/class/datatype/edit" md5sum="0a7aa5c3a174fc74aa64007e7afe7e8d"/>
+  <file name="content" path="/design/standard/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="datatype" path="/design/standard/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="view" path="/design/standard/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrrating.tpl" path="/design/standard/templates/content/datatype/view" md5sum="ecb72618b860ea3fafe36e7f1fe4ca72"/>
+  <file name="edit" path="/design/standard/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrrating.tpl" path="/design/standard/templates/content/datatype/edit" md5sum="d48fdf8275a49ea433c717f58cf74611"/>
+  <file name="javascript" path="/design/standard" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezstarrating_yui3.js" path="/design/standard/javascript" md5sum="5b63eae351004f44205f748214bc5170"/>
+  <file name="ezstarrating_jquery.js" path="/design/standard/javascript" md5sum="fed1c4048029bd19bfe6ae09662729bc"/>
+  <file name="TODO" md5sum="f8f2eeffb4bfabc2994fe363dbfb6f25"/>
+  <file name="extension.xml" md5sum="f7accd4b3977ed818e188025be1ae44a"/>
+  <file name="datatypes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrrating" path="/datatypes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsrratingtype.php" path="/datatypes/ezsrrating" md5sum="e9716e96a4742af2039ddd2e40ebf61a"/>
+  <file name="ezinfo.php" md5sum="da0b2237afd589438836a471737f0331"/>
+  <file name="settings" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="design.ini.append.php" path="/settings" md5sum="82f0bbe79e61706fdff6431e14b9bcb8"/>
+  <file name="ezjscore.ini.append.php" path="/settings" md5sum="e7f69f44313b4cf700f814e1b7059cca"/>
+  <file name="site.ini.append.php" path="/settings" md5sum="07cbc26e3867802b9f17c0ab0a7f0cc3"/>
+  <file name="content.ini.append.php" path="/settings" md5sum="109e1fb0be5a2fa2288cb2228bf6e2b9"/>
+  <file name="extendedattributefilter.ini.append.php" path="/settings" md5sum="75e3e75e87bd5952d5254d4194fc8f7e"/>
+  <file name="datatype.ini.append.php" path="/settings" md5sum="1d4625d1073d1552b62d121bc8d1bf8d"/>
+  <file name="share" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="db_schema.dba" path="/share" md5sum="774b7c77dbf123bb0b28b7b15f549200"/>
+  <file name="patch" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="extended_attribute_group_by.diff" path="/patch" md5sum="b9209af3f7926583ee30734a8b37bc95"/>
+</extension>

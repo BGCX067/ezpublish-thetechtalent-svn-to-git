@@ -1,0 +1,8 @@
+                    
+    var rootNode = {"node_id":1,"object_id":0,"class_id":1,"has_children":true,"name":"Top Level Nodes","url":"/content/view/full/1","modified_subnode":1295922235,"languages":[""],"class_list":[]};
+
+    document.writeln( '<ul id="content_tree_menu">' );
+    document.writeln( treeMenu.generateEntry( rootNode, false, true ) );
+    document.writeln( '<\/ul>' );
+
+    treeMenu.load( false, 1, 1295922235 );})();

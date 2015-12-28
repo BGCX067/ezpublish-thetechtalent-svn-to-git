@@ -1,0 +1,97 @@
+
+
+<h2>All latest content</h2>
+
+<table class="list" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Published</th>
+        <th>Author</th>
+        <th class="tight"></th>
+    </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/jsp" title="jsp">jsp</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                01/24/2011
+            </td>
+            <td>
+                <a href="/Users/Administrator-users/Administrator-User" title="Administrator User">
+                    Administra...
+                </a>
+            </td>
+            <td>
+                            <a href="/content/edit/64">
+                    <img src="/design/standard/images/edit.gif" alt="Edit" title="Edit &lt;jsp&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/hibernate" title="hibernate">hibernate</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                01/24/2011
+            </td>
+            <td>
+                <a href="/Users/Administrator-users/Administrator-User" title="Administrator User">
+                    Administra...
+                </a>
+            </td>
+            <td>
+                            <a href="/content/edit/63">
+                    <img src="/design/standard/images/edit.gif" alt="Edit" title="Edit &lt;hibernate&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/spring" title="spring">spring</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                01/24/2011
+            </td>
+            <td>
+                <a href="/Users/Administrator-users/Administrator-User" title="Administrator User">
+                    Administra...
+                </a>
+            </td>
+            <td>
+                            <a href="/content/edit/62">
+                    <img src="/design/standard/images/edit.gif" alt="Edit" title="Edit &lt;spring&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/java" title="java">java</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                01/24/2011
+            </td>
+            <td>
+                <a href="/Users/Administrator-users/Administrator-User" title="Administrator User">
+                    Administra...
+                </a>
+            </td>
+            <td>
+                            <a href="/content/edit/60">
+                    <img src="/design/standard/images/edit.gif" alt="Edit" title="Edit &lt;java&gt;." />
+                </a>
+                        </td>
+        </tr>
+    </table>

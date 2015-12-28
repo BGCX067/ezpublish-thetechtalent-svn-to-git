@@ -1,0 +1,73 @@
+
+</head>
+<body>
+
+<div id="page" class="ezsetupnavigationpart section_id_0">
+
+<div id="header">
+<div id="header-design" class="float-break">
+
+    
+    <div id="header-logo">    <a href="/content/dashboard" title="eZ Publish 4.4.0">&nbsp;</a></div>
+
+<div id="header-search">
+    <div class="searchblock">
+<form action="/content/search" method="get">
+                    <input id="searchtext" name="SearchText" type="text" size="20" value="" title="Search in all content" />
+        <input type="hidden" name="SubTreeArray" value="1" />
+        <input id="searchbutton" class="button hide" name="SearchButton" type="submit" value="Search" />
+                    <p class="advanced hide"><a href="/content/advancedsearch" title="Advanced search.">Advanced</a></p>
+                <div class="searchbuttonfield" id="searchbuttonfield"></div>
+    </form>
+</div>
+
+<script type="text/javascript">
+<!--
+
+(function($) {
+	if ( document.getElementById('searchbuttonfield') ) {
+
+		jQuery('#searchbuttonfield').click(function() {
+            if ( jQuery('#searchtext').val() === jQuery('#searchtext').attr('title') ) 
+                return;
+            
+        	jQuery('#searchbutton').click();
+        });
+    }
+})( jQuery );
+
+// -->
+</script></div>
+
+<div id="header-usermenu">    <a href="/user/logout" title="Logout from the system." id="header-usermenu-logout">Logout</a></div>
+
+
+    
+    <div id="header-topmenu">
+    <ul>
+            <li class="unselected first ezmynavigationpart"><div>
+            <a href="/content/dashboard" title="Manage items and settings that belong to your account.">Dashboard</a>
+    </div></li>            <li class="unselected middle ezcontentnavigationpart"><div>
+            <a href="/content/view/full/2" title="Manage the main content structure of the site.">Content structure</a>
+    </div></li>            <li class="unselected middle ezmedianavigationpart"><div>
+            <a href="/content/view/full/43" title="Manage images, files, documents, etc.">Media library</a>
+    </div></li>            <li class="unselected middle ezusernavigationpart"><div>
+            <a href="/content/view/full/5" title="Manage users, user groups and permission settings.">User accounts</a>
+    </div></li>                <li class="selected last ezsetupnavigationpart"><div>
+            <a href="/setup/cache" title="Configure settings and manage advanced functionality.">Setup</a>
+    </div></li>        </ul>
+</div>
+<script type="text/javascript" defer="defer">
+<!--
+
+
+jQuery( '#header-topmenu ul li' ).click(function()
+{
+    jQuery(this).addClass('active');
+});
+
+
+// -->
+</script>
+</div>
+</div>

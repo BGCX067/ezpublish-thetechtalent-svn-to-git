@@ -1,0 +1,147 @@
+
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <div id="topmenu-firstlevel-overlay"></div>
+
+    <div id="topmenu-firstlevel-position">
+        <ul id="topmenu-firstlevel">
+        
+                                                                                                                                                                           
+                                    <li id="node_id_61" class="firstli lastli"><div><a href="/index.php?/java"><span>java</span></a></div></li>
+                                            </ul>
+    </div>
+
+            <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+        <div id="path">
+      <!-- Path content: START -->
+  <p>
+        <span class="path-text">Home</span>
+        </p>
+  <!-- Path content: END -->  </div>    <!-- Path area: END -->
+  
+  <!-- Toolbar area: START -->
+        <div id="toolbar">
+  
+                                      
+<!-- eZ website toolbar: START -->
+
+<div id="ezwt">
+<div class="tl"><div class="tr"><div class="tc"></div></div></div>
+<div class="mc"><div class="ml"><div class="mr float-break">
+
+<!-- eZ website toolbar content: START -->
+<div id="ezwt-ezlogo">
+<a href="/index.php?/ezinfo/about" title="About" target="_blank"><img src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-logo.gif" width="50" height="16" alt="eZ" /></a>
+</div>
+<div id="ezwt-standardactions">
+
+<form method="post" action="/index.php?/content/action" class="left"><label for="ezwt-create" class="hide">Create:</label>    <select name="ClassID" id="ezwt-create">
+      <optgroup label="Content">
+            <option value="16">Article</option>
+            <option value="17">Article (main-page)</option>
+            <option value="18">Article (sub-page)</option>
+            <option value="19">Blog</option>
+            <option value="20">Blog post</option>
+            <option value="13">Comment</option>
+            <option value="24">Documentation page</option>
+            <option value="43">Event</option>
+            <option value="44">Event calendar</option>
+            <option value="22">Feedback form</option>
+            <option value="1">Folder</option>
+            <option value="40">Forum</option>
+            <option value="42">Forum reply</option>
+            <option value="41">Forum topic</option>
+            <option value="46">Forums</option>
+            <option value="23">Frontpage</option>
+            <option value="38">Gallery</option>
+            <option value="39">Geo Article</option>
+            <option value="32">Global layout</option>
+            <option value="25">Infobox</option>
+            <option value="34">Link</option>
+            <option value="26">Multicalendar</option>
+            <option value="27">Poll</option>
+            <option value="21">Product</option>
+        </optgroup>
+      <optgroup label="Media">
+            <option value="28">File</option>
+            <option value="29">Flash</option>
+            <option value="30">Flash recorder</option>
+            <option value="33">Image</option>
+            <option value="35">Quicktime</option>
+            <option value="37">Real video</option>
+            <option value="47">Silverlight</option>
+            <option value="31">Video/Flash Player</option>
+            <option value="36">Windows media</option>
+        </optgroup>
+      <optgroup label="Setup">
+            <option value="15">Template look</option>
+        </optgroup>
+      <optgroup label="Users">
+            <option value="4">User</option>
+            <option value="3">User group</option>
+        </optgroup>
+    </select>
+    <input type="hidden" name="ContentLanguageCode" value="eng-US" />
+  <input type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-new.gif" name="NewButton" title="Create here" />    <input type="hidden" name="ContentObjectLanguageCode" value="eng-US" />
+    <input type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-edit.gif" name="EditButton" title="Edit: Home [Frontpage]" />            <input type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations-disabled.gif" name="AddAssignmentButton" title="Add locations" disabled="disabled" />
+    
+<a href="/index.php?/websitetoolbar/sort/2" title="Sorting"><img src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-sort.gif" alt="Sorting" /></a>
+
+                                                                                    <input type="image" class="hide" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-url.gif" alt="Toggle menu link type edit." title="Toggle menu link type edit." id="ezwt-link-switcher" />
+
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/aade3e2febc3c1748c98c752569a3255.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+
+    if ( window.YUI !== undefined ) YUI( YUI3_config ).use('node', function(Y) {
+        Y.on('contentready', function() {
+            Y.get('#ezwt-link-switcher').removeClass('hide').on('click', function(e) {
+                Y.Node.all('.menu-item-link').each(function(n, v) {
+                    var rel = n.get('rel'), href = n.get('href');
+                    n.set('rel',  href);
+                    n.set('href', rel);
+                });
+                e.preventDefault();
+            });
+        }, '#ezwt-link-switcher' );
+    });
+
+</script>                                                                                                            <a href="/index.php?/ezflow/timeline/2" title="Timeline"><img src="/extension/ezflow/design/ezflow/images/websitetoolbar/ezwt-icon-timeline.gif" alt="Timeline" /></a>                                                        <a href="/index.php?/ezflow/push/2" title="Push to block"><img src="/extension/ezflow/design/ezflow/images/websitetoolbar/ezwt-icon-push.gif" alt="Push to block" /></a>                    
+  <input type="hidden" name="HasMainAssignment" value="1" />
+  <input type="hidden" name="ContentObjectID" value="57" />
+  <input type="hidden" name="NodeID" value="2" />
+  <input type="hidden" name="ContentNodeID" value="2" />
+  
+            <input type="hidden" name="ContentObjectLanguageCode" value="eng-US" />
+</form>
+</div>
+<div id="ezwt-help">
+<p><a href="http://ez.no/doc" title="Documentation" target="_blank"><span class="hide">Documentation</span>?</a></p>
+</div>
+<div id="ezwt-openoffice">
+</div>
+
+<!-- eZ website toolbar content: END -->
+
+</div></div></div>
+<div class="bl"><div class="br"><div class="bc"></div></div></div>
+</div>
+
+<!-- eZ website toolbar: END -->
+  </div>    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

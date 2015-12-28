@@ -1,0 +1,125 @@
+                    <title>Tip a friend - eZ Flow (without demo content)</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="en-US" />
+
+                    <meta name="author" content="eZ Systems" />
+    
+                <meta name="copyright" content="eZ Systems" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+        <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    
+<link rel="Home" href="/index.php?" title="eZ Flow (without demo content) front page" />
+<link rel="Index" href="/index.php?" />
+<link rel="Top"  href="/index.php?" title="Tip a friend - eZ Flow (without demo content)" />
+<link rel="Search" href="/index.php?/content/advancedsearch" title="Search eZ Flow (without demo content)" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php?/ezinfo/copyright" />
+<link rel="Author" href="/index.php?/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/index.php?/rss/feed/my_feed" /><link rel="Alternate" href="/index.php?/layout/set/print/content/tipafriend/62" media="print" title="Printable version" />      <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/c959243567390854e4e0e2ad4f99ea4c_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezflow_design/files/default/file/classes-colors.css" />
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezflow_design/files/default/file/site-colors.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezflow/design/ezflow/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezflow/design/ezflow/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<script type="text/javascript" src="/extension/ezflow/design/ezflow/javascript/insertmedia.js" charset="utf-8"></script>
+
+</head>
+<body>
+<!-- Complete page area: START -->
+
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="nosidemenu noextrainfo">
+
+  
+  <!-- Header area: START -->
+    <div id="header-position">
+  <div id="header" class="float-break">
+    <div id="usermenu">
+      <div id="languages">
+    <ul>
+                            <li class="current_siteaccess"><a href="/index.php?/switchlanguage/to/eng/java/first-article">Eng</a></li>
+        </ul>
+</div>    </div>
+
+    <div id="logo">    <a href="/index.php?" title="eZ Flow (without demo content)"><img src="/var/ezflow_site/storage/images/design/ez-publish/172-1-eng-US/eZ-Flow-without-demo-content1.png" alt="" width="128" height="39" /></a></div>    
+    <div id="searchbox">
+  <form action="/index.php?/content/search">
+    <label for="searchtext" class="hide">Search text:</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" />
+    <input id="searchbutton" class="button" type="submit" value="Search" alt="Search" />
+              </form>
+</div>
+    <div class="corner-box">
+    <div class="corner-tl"><div class="corner-tr">
+    <div class="corner-content">
+      <div id="links">
+    <ul>
+                                <li id="tagcloud"><a href="/index.php?/content/view/tagcloud/2" title="Tag cloud">Tag cloud</a></li>
+                                                    <li id="sitemap"><a href="/index.php?/content/view/sitemap/2" title="Site map">Site map</a></li>
+                                                <li id="myprofile"><a href="/index.php?/user/edit" title="My profile">My profile</a></li>
+                        <li id="logout"><a href="/index.php?/user/logout" title="Logout">Logout ( Administrator User )</a></li>
+            
+            <li id="sitesettings"><a href="/index.php?/content/edit/54/a" title="Site settings">Site settings</a></li>
+        </ul>
+</div>    </div>
+    </div></div>
+    </div>
+      
+    <p class="hide"><a href="#main">Skip to main content</a></p>
+  </div>
+  </div>
+  
+  <!-- Content area: START -->
+  <div id="page-content-position">
+  <div id="page-content">  <!-- Header area: END -->
+  
+  
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <div id="topmenu-firstlevel-overlay"></div>
+
+    <div id="topmenu-firstlevel-position">
+        <ul id="topmenu-firstlevel">
+        
+                                                                                                                                                                           
+                                    <li id="node_id_61" class="firstli lastli"><div><a href="/index.php?/java"><span>java</span></a></div></li>
+                                            </ul>
+    </div>
+
+            <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+        <div id="path">
+      <!-- Path content: START -->
+  <p>
+        <span class="path-text">Tip a friend</span>
+        </p>
+  <!-- Path content: END -->  </div>    <!-- Path area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

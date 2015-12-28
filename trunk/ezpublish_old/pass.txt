@@ -1,0 +1,13 @@
+godaddy: 35070246 sweety
+admin: thetechtalent Sweety123!
+
+sanketmoralwar84@gmail.com
+svn pass:jb8ht6gc3Fv7
+db url : thetechtalent.db.7349689.hostedresource.com
+
+sharethis account:
+nikunj.jariwala
+birth date:20 november 1984
+
+
+svn checkout https://ezpublish-thetechtalent.googlecode.com/svn/trunk/ ezpublish-thetechtalent --username nikunj.jariwala

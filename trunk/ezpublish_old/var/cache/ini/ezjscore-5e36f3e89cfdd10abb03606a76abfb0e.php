@@ -1,0 +1,12 @@
+<?php
+// This is a auto generated ini cache file, time created:Mon, 24 Jan 11 19:20:48 -0700
+$data = array(
+'rev' => 2,
+'created' => '2011-01-24T19:20:48-07:00',
+'charset' => "utf-8",
+'files' => array (0 => 'extension/ezwt/settings/ezjscore.ini.append.php',1 => 'extension/ezoe/settings/ezjscore.ini.append.php',2 => 'extension/ezflow/settings/ezjscore.ini.append.php',3 => 'extension/ezstarrating/settings/ezjscore.ini.append.php',4 => 'extension/ezjscore/settings/ezjscore.ini',
+),
+'file' => 'settings/ezjscore.ini',
+'val' => array ('ezjscServer_ezwt' => array ('Class' => 'ezwtServerCallFunctions',),'ezjscServer_ezoe' => array ('Class' => 'ezoeServerFunctions','File' => 'extension/ezoe/classes/ezoeserverfunctions.php',),'eZJSCore' => array ('EnabledScripts' => array (0 => 'yui2',),'LoadFromCDN' => 'disabled','PreferredLibrary' => 'yui3','ExternalScripts' => array ('yui3' => 'http://yui.yahooapis.com/3.1.2/build/yui/yui-min.js','yui2' => 'http://yui.yahooapis.com/2.8.1/build/yuiloader/yuiloader-min.js','jquery' => 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js',),'LocalScripts' => array ('yui3' => '/lib/yui/3.1.2/build/yui/yui-min.js','yui2' => '/lib/yui/2.8.1/build/yuiloader/yuiloader-min.js','jquery' => 'jquery-1.4.2.min.js',),'LocalScriptBasePath' => array ('yui3' => 'lib/yui/3.1.2/build/','yui2' => 'lib/yui/2.8.1/build/',),),'ezjscServer_ezflow' => array ('Class' => 'eZFlowServerCallFunctions',),'ezjscServer' => array ('FunctionList' => array (0 => 'ezstarrating_rate',1 => 'ezstarrating_user_has_rated',2 => 'ezjsctemplate',),),'ezjscServer_ezstarrating' => array ('Class' => 'ezsrServerFunctions','Functions' => array (0 => 'ezstarrating',),'PermissionPrFunction' => 'enabled','File' => 'extension/ezstarrating/classes/ezsrserverfunctions.php',),'Packer' => array ('AppendLastModifiedTime' => 'disabled','CustomHosts' => array (),),'ezjscServer_ezjsc' => array ('Class' => 'ezjscServerFunctionsJs','File' => 'extension/ezjscore/classes/ezjscserverfunctionsjs.php',),'ezjscServer_ezjscnode' => array ('Class' => 'ezjscServerFunctionsNode','File' => 'extension/ezjscore/classes/ezjscserverfunctionsnode.php',),'ezjscServer_ezjsctemplate' => array ('TemplateFunction' => 'true','Functions' => array (0 => 'ezjsctemplate',),),
+));
+?>

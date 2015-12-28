@@ -1,0 +1,125 @@
+                
+    <title>Home - eZ Flow (without demo content)</title>
+
+    
+    
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta http-equiv="Content-language" content="en-US" />
+
+    
+        <meta name="author" content="eZ Systems" />
+
+        <meta name="copyright" content="eZ Systems" />
+
+        <meta name="description" content="Content Management System" />
+
+        <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+
+    
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    
+
+<link rel="Home" href="/index.php?" title="eZ Flow (without demo content) front page" />
+<link rel="Index" href="/index.php?" />
+<link rel="Top"  href="/index.php?" title="Home - eZ Flow (without demo content)" />
+<link rel="Search" href="/index.php?/content/advancedsearch" title="Search eZ Flow (without demo content)" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php?/ezinfo/copyright" />
+<link rel="Author" href="/index.php?/ezinfo/about" />
+<link rel="Alternate" href="/index.php?/layout/set/print" media="print" title="Printable version" />
+                        
+  
+      <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/d3a48078782124a9a85590783db31ef5_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+.float-break /* Terminate floating elements flow in IE < 8 */
+{
+    height: 1%;
+}
+</style>
+<![endif]-->
+
+  <script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/2f8dd5bf160c73b6cc1db4ec0b27504f.js" charset="utf-8"></script>
+
+
+</head>
+<body>
+
+<div id="page" class="ezcontentnavigationpart section_id_1">
+
+<div id="header">
+<div id="header-design" class="float-break">
+
+    
+    <div id="header-logo">    <a href="/index.php?/content/dashboard" title="eZ Publish 4.4.0">&nbsp;</a></div>
+
+<div id="header-search">
+    <div class="searchblock">
+<form action="/index.php?/content/search" method="get">
+                                        <input id="searchtext" name="SearchText" type="text" size="20" value="" title="Search in 'Home'" />
+        <input type="hidden" name="SubTreeArray" value="2" />
+        <input id="searchbutton" class="button hide" name="SearchButton" type="submit" value="Search" />
+                    <p class="advanced hide"><a href="/index.php?/content/advancedsearch" title="Advanced search.">Advanced</a></p>
+                <div class="searchbuttonfield" id="searchbuttonfield"></div>
+    </form>
+</div>
+
+<script type="text/javascript">
+<!--
+
+(function($) {
+	if ( document.getElementById('searchbuttonfield') ) {
+
+		jQuery('#searchbuttonfield').click(function() {
+            if ( jQuery('#searchtext').val() === jQuery('#searchtext').attr('title') ) 
+                return;
+            
+        	jQuery('#searchbutton').click();
+        });
+    }
+})( jQuery );
+
+// -->
+</script></div>
+
+<div id="header-usermenu">    <a href="/index.php?/user/logout" title="Logout from the system." id="header-usermenu-logout">Logout</a></div>
+
+
+    
+    <div id="header-topmenu">
+    <ul>
+            <li class="unselected first ezmynavigationpart"><div>
+            <a href="/index.php?/content/dashboard" title="Manage items and settings that belong to your account.">Dashboard</a>
+    </div></li>                <li class="selected middle ezcontentnavigationpart"><div>
+            <a href="/index.php?/content/view/full/2" title="Manage the main content structure of the site.">Content structure</a>
+    </div></li>            <li class="unselected middle ezmedianavigationpart"><div>
+            <a href="/index.php?/content/view/full/43" title="Manage images, files, documents, etc.">Media library</a>
+    </div></li>            <li class="unselected middle ezusernavigationpart"><div>
+            <a href="/index.php?/content/view/full/5" title="Manage users, user groups and permission settings.">User accounts</a>
+    </div></li>            <li class="unselected last ezsetupnavigationpart"><div>
+            <a href="/index.php?/setup/cache" title="Configure settings and manage advanced functionality.">Setup</a>
+    </div></li>        </ul>
+</div>
+<script type="text/javascript" defer="defer">
+<!--
+
+
+jQuery( '#header-topmenu ul li' ).click(function()
+{
+    jQuery(this).addClass('active');
+});
+
+
+// -->
+</script>
+</div>
+</div>
+
+<hr class="hide" />

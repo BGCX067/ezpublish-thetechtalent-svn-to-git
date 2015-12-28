@@ -1,0 +1,124 @@
+                
+    <title>New Folder / Home - The Tech Talent</title>
+
+    
+    
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta http-equiv="Content-language" content="en-US" />
+
+    
+        <meta name="author" content="theTechTalent" />
+
+        <meta name="copyright" content="theTechTalent" />
+
+        <meta name="description" content="Content Management System" />
+
+        <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+
+    
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    
+
+<link rel="Home" href="/" title="The Tech Talent front page" />
+<link rel="Index" href="/" />
+<link rel="Top"  href="/" title="New Folder / Home - The Tech Talent" />
+<link rel="Search" href="/content/advancedsearch" title="Search The Tech Talent" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezinfo/copyright" />
+<link rel="Author" href="/ezinfo/about" />
+<link rel="Alternate" href="/layout/set/print/content/edit/62/1" media="print" title="Printable version" />
+                        
+  
+      <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/4544b7f4293a540021beb7386355ffea_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+.float-break /* Terminate floating elements flow in IE < 8 */
+{
+    height: 1%;
+}
+</style>
+<![endif]-->
+
+  <script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/c013ca706c6c33bf42984761a6776ca7.js" charset="utf-8"></script>
+
+
+</head>
+<body>
+
+<div id="page" class="ezcontentnavigationpart section_id_0">
+
+<div id="header">
+<div id="header-design" class="float-break">
+
+    
+    <div id="header-logo">    <span title="eZ Publish 4.4.0">&nbsp;</span></div>
+
+<div id="header-search">
+    <div class="searchblock">
+<form action="/content/search" method="get">
+            <input id="searchtext" name="SearchText" class="disabled" type="text" size="20" value="" disabled="disabled" title="Search in all content" />
+        <input type="hidden" name="SubTreeArray" value="1" />
+        <input id="searchbutton" class="button-disabled hide" name="SearchButton" type="submit" value="Search" disabled="disabled" />
+        <p class="advanced hide"><span class="disabled">Advanced</span></p>
+    </form>
+</div>
+
+<script type="text/javascript">
+<!--
+
+(function($) {
+	if ( document.getElementById('searchbuttonfield') ) {
+
+		jQuery('#searchbuttonfield').click(function() {
+            if ( jQuery('#searchtext').val() === jQuery('#searchtext').attr('title') ) 
+                return;
+            
+        	jQuery('#searchbutton').click();
+        });
+    }
+})( jQuery );
+
+// -->
+</script></div>
+
+<div id="header-usermenu">    <span title="Logout from the system." id="header-usermenu-logout" class="disabled">Logout</span></div>
+
+
+    
+    <div id="header-topmenu">
+    <ul>
+            <li class="unselected first ezmynavigationpart"><div>
+            <span class="disabled" title="Manage items and settings that belong to your account.">Dashboard</span>
+    </div></li>                <li class="selected middle ezcontentnavigationpart"><div>
+            <span class="disabled" title="Manage the main content structure of the site.">Content structure</span>
+    </div></li>            <li class="unselected middle ezmedianavigationpart"><div>
+            <span class="disabled" title="Manage images, files, documents, etc.">Media library</span>
+    </div></li>            <li class="unselected middle ezusernavigationpart"><div>
+            <span class="disabled" title="Manage users, user groups and permission settings.">User accounts</span>
+    </div></li>            <li class="unselected last ezsetupnavigationpart"><div>
+            <span class="disabled" title="Configure settings and manage advanced functionality.">Setup</span>
+    </div></li>        </ul>
+</div>
+<script type="text/javascript" defer="defer">
+<!--
+
+
+jQuery( '#header-topmenu ul li' ).click(function()
+{
+    jQuery(this).addClass('active');
+});
+
+
+// -->
+</script>
+</div>
+</div>
+
+<hr class="hide" />
